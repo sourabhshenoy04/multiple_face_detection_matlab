@@ -1,1 +1,1 @@
-# Multiple_Face_Detection_MATLAB
+# Multiple Face Detection using MATLAB

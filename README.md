@@ -7,6 +7,7 @@ Multiple Face Detection using MATLAB
 
 **Software Used:** 
 - MATLAB Offline latest version
+
 **Toolbox/ Packages to be installed:**
 - Image Processing
 - USB Webcam 

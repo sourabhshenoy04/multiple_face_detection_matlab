@@ -138,6 +138,7 @@ MATLAB's versatility, rich toolboxes, and ease of use make it a valuable tool in
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 5. Write the code and press run
+   
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 6. During the simulation, the images captured will be saved like this in the folder.

@@ -120,7 +120,7 @@ MATLAB's versatility, rich toolboxes, and ease of use make it a valuable tool in
 
 7. **Closing the webcam:**
 - Once the desired number of faces have been detected, the loop breaks, and the webcam connection is closed.
-## Steps in Code Composer Studio :
+## Steps in MATLAB :
 
 1. Open the MATLAB Offline Version.
 

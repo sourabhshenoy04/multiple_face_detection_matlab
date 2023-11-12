@@ -124,31 +124,32 @@ MATLAB's versatility, rich toolboxes, and ease of use make it a valuable tool in
 
 1. Open the MATLAB Offline Version.
 
+   ![App Screenshot](./img/first.png)
 
 2. Click on New > Script.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+ ![App Screenshot](./img/second.png)
+ 
 3. New window of code editor opens.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](./img/third.png)
 
 4. Save the file with suitable name with .m extension.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](./img/fourth.png)
 
 5. Write the code and press run
    
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](./img/fifth.png)
 
 6. During the simulation, the images captured will be saved like this in the folder.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](./img/sixth.png)
 
 7. This is how new window for capturing the face looks like
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](./img/output.png)
 
 ## Final Output:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](./img/output2.png)

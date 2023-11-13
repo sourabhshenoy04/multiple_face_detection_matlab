@@ -3,7 +3,7 @@
 ## Problem Statement:
 Multiple Face Detection using MATLAB
 
-## Tech Stack
+## 🛠  Tech Stack
 
 **Software Used:** 
 - MATLAB Offline latest version
